@@ -311,7 +311,7 @@ function my-readlink
 ARS=(
     http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.14.tar.gz
     ftp://ftp.gmplib.org/pub/gmp-5.1.3/gmp-5.1.3.tar.bz2
-    http://www.mpfr.org/mpfr-current/mpfr-3.1.2.tar.bz2
+    http://www.mpfr.org/mpfr-3.1.2/mpfr-3.1.2.tar.bz2
     http://www.multiprecision.org/mpc/download/mpc-1.0.2.tar.gz
     http://bugseng.com/products/ppl/download/ftp/releases/1.1/ppl-1.1.tar.bz2
     http://www.bastoul.net/cloog/pages/download/cloog-0.18.0.tar.gz
